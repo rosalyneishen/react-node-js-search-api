@@ -1,10 +1,10 @@
-# ELC Javscript Coding Test
+# Created for a Javscript Coding Test
 
-The ELC Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
+The Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
 
 ### The Task
 
-You are required to create a simple auto-search feature similar to [this one](https://www.maccosmetics.com/) where-by, as you type, the data is checked against a Node server and the response is then loaded in. You can style this however you wish and can implement it however you wish but you MUST use Javascript/React and Node to accomplish this. This has already been setup for you in the source code provided. Some general tips on starting:
+You are required to create a simple auto-search feature where-by, as you type, the data is checked against a Node server and the response is then loaded in. You can style this however you wish and can implement it however you wish but you MUST use Javascript/React and Node to accomplish this. This has already been setup for you in the source code provided. Some general tips on starting:
 
 * The point of entry for the app can be found in the 'app/scripts/main.js' file -- work from this file for your app code
 * The server with the response can be found in the 'server/app.js' file -- work from this file to complete the Node server setup
